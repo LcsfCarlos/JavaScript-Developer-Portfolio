@@ -1,13 +1,10 @@
 {
   "nome": "Luiz Carlos S F",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "photo": "https://avatars.githubusercontent.com/u/121176269?s=400&u=0153d146c02ea9868886430ba240aff555343921&v=4",
+  "job": "Back-End and Front-End Student",
+  "location": "Setúbal - PT",
+  "phone": "(+351) 912999683",
+  "email": "luizcarlos-_-@hotmail.com",
   "skills": {
     "hardSkills": [
       {
