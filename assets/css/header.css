@@ -62,8 +62,8 @@
     background-image: url('/assets/img/icons/location.svg');
 }
 
-.infoPessoais .whatsapp::before {
-    background-image: url('/assets/img/icons/whatsapp.svg');
+.infoPessoais .phone::before {
+    background-image: url('/assets/img/icons/phone.svg');
 }
 
 .infoPessoais .github::before {
