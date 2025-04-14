@@ -8,16 +8,32 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "NodeJs",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/nodejs.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/javascript.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/angular.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/css.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/typescript.png"
+      },
+      {
+        "name": "Html5",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/html5.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/LcsfCarlos/JavaScript-Developer-Portfolio/refs/heads/main/data/images/github.png"
       }
     ],
     "softSkills": [
