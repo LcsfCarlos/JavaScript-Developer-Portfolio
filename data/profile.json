@@ -52,7 +52,7 @@
     {
       "name": "Curso Plataforma Udemy JavaScript Básico ao Avançado",
       "url": "https://github.com/LcsfCarlos/Curso-Udemy-JavaScript-/tree/main/Tipos%20primitivos",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso Plataforma Udemy Angular TypeScript",
@@ -77,17 +77,17 @@
     {
       "name": "Curso Angular Front-End",
       "url": "https://github.com/LcsfCarlos/Curso-de-angular-auth-front",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso Angular Lista de Tarefas",
       "url": "https://github.com/LcsfCarlos/Projeto-Pratico-Lista-de-Tarefas--Curso-de-Angular-2-v17",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso Angular Meu Porfólio",
       "url": "https://github.com/LcsfCarlos/Curso-de-Angular-2-v17-Meu-Portfolio",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
