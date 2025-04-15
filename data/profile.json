@@ -48,76 +48,46 @@
     "Português BR",
     "English (Intermediário)"
   ],
-  "educacao": [
-    {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
-  ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Curso Plataforma Udemy JavaScript Básico ao Avançado",
+      "url": "https://github.com/LcsfCarlos/Curso-Udemy-JavaScript-/tree/main/Tipos%20primitivos",
+      "git": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Curso Plataforma Udemy Angular TypeScript",
+      "url": "https://github.com/LcsfCarlos/Curso-de-Angular-2-v17-Typescript",
+      "certificado": true
+    },
+    {
+      "name": "Curso Plataforma DIO JavaScript Meu Portfólio",
+      "url": "https://github.com/LcsfCarlos/JavaScript-Developer-Portfolio",
+      "certificado": "https://web.dio.me/certificates"
+    },
+    {
+      "name": "Curso Plataforma DIO Pokedex JavaScript API",
+      "url": "https://github.com/LcsfCarlos/JavaScript-Api-Pokedex-Dio.me",
+      "certificado": "https://web.dio.me/certificates"
+    },
+    {
+      "name": "Curso Plataforma DIO Lógica de Programação",
+      "url": "https://github.com/LcsfCarlos/Curso-Logica-Programacao-Dio.me",
+      "certificado": true
+    },
+    {
+      "name": "Curso Angular Front-End",
+      "url": "https://github.com/LcsfCarlos/Curso-de-angular-auth-front",
+      "git": true
+    },
+    {
+      "name": "Curso Angular Lista de Tarefas",
+      "url": "https://github.com/LcsfCarlos/Projeto-Pratico-Lista-de-Tarefas--Curso-de-Angular-2-v17",
+      "git": true
+    },
+    {
+      "name": "Curso Angular Meu Porfólio",
+      "url": "https://github.com/LcsfCarlos/Curso-de-Angular-2-v17-Meu-Portfolio",
+      "git": true
     }
   ],
   "experiencias": [
