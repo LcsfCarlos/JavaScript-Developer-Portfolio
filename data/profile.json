@@ -1,7 +1,7 @@
 {
   "name": "Luiz Carlos S F",
   "photo": "https://avatars.githubusercontent.com/u/121176269?s=400&u=0153d146c02ea9868886430ba240aff555343921&v=4",
-  "job": "Back-End and Front-End Student",
+  "job": "Front-End and Back-End Student",
   "location": "Setúbal - PT",
   "phone": "(+351) 912999683",
   "email": "luizcarlos-_-@hotmail.com",
@@ -92,13 +92,12 @@
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Front-End and Back-End Student",
+      "period": "",
+      "description": "Iniciei meus estudos em Front-end no final de 2022, iniciando o aprendizado com HTML, CSS3, SASS, BOOTSTRAP, Manipulação do DOM com JavaScript, realizei diversos projetos utilizando os conhecimentos adquiridos como Pokedex, Meu primeiro site, lista de tarefas. Nessa trajetória me mudei de País onde estou atualmente morando em Portugal, com isso acabei dando uma pausa nos estudos em agosto de 2023 acabei por ficar um tempo sem conseguir estudar, retomei meus estudos em julho de 2024, realizei revisões de conteúdo, logo em seguida realizei curso de Lógica de programação certificado pela plataforma da Dio. Aprofundei mais os estudos em JavaScript desde o básico ao avançado, realizando cursos pela plataforma da Udemy e Dio, onde diversos projetos foram concluídos, Pokedex com consumo de API, Meu Portifólio, Desafios de códigos para concretizar o aprendizado. Realizei curso de TypeScript pela plataforma Udemy, onde direcionei meu foco em utilizar o framework Angular, realizei diversos cursos e projetos sendo eles, curso de TypesCript, Lista de tarefas, Rotas, Formulários Reativos, Dark Tema, Meu Portfolio com Angular 17+, Typescript Angular 17+, Angular Universal SSR-SSG.
+Sigo estudando todos os dias para me tornar um desenvolvedor Full-Stack,  como tudo se inicia com o primeiro passo, estou em busca da minha primeira oportunidade no mercado de trabalho."
+,
+      "url": "https://web.dio.me/certificates"
     }
   ]
 }
