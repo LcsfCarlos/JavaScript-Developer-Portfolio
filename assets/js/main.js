@@ -70,7 +70,7 @@ function updateProfessionalExperience(profileData) {
           <h3 class="title">${experience.name}</h3>
           <p class="period">${experience.period}</p>
           <p>${experience.description}</p>
-          <p class="certificate"><a href="https://web.dio.me/certificates">Certificates</a></p>
+          <a href="${experience.url}" target="_blank">${experience.url}</a>
         </li>
     `;
     })
