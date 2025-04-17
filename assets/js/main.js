@@ -59,18 +59,17 @@ function updatePortfolio(profileData) {
     .join("");
 }
 
-function updateProfileExperience(profileData) {
-  const profileExperience = document.getElementById(
-    "profile.profileExperience"
+function updateProfessionalExperience(profileData) {
+  const professionalExperience = document.getElementById(
+    "profile.professionalExperience"
   );
-  profileExperience.innerHTML = profileData.profileExperience
+  professionalExperience.innerHTML = profileData.professionalExperience
     .map((experience) => {
       return `
         <li>
           <h3 class="title">${experience.name}</h3>
           <p class="period">${experience.period}</p>
           <p>${experience.description}</p>
-          <p class="certificate"><a href="https://web.dio.me/certificates">Certificates</a></p>
         </li>
     `;
     })
@@ -84,5 +83,5 @@ function updateProfileExperience(profileData) {
   updateHardSkills(profileData);
   updateLanguages(profileData);
   updatePortfolio(profileData);
-  updateProfileExperience(profileData);
+  updateProfessionalExperience(profileData);
 })();
