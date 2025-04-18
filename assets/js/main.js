@@ -71,7 +71,7 @@ function updateProfessionalExperience(profileData) {
           <p class="period">${experience.period}</p>
           <p>${experience.description}</p>
           <br>
-          <p class="certificate"><a href="https://web.dio.me/certificates" target="_blank">Certificates</a></p>
+          <p class="certificate"><a href="https://web.dio.me/users/luizcarlos-_-?tab=achievements&page=1" target="_blank">Certificates</a></p>
         </li>
     `;
     })
