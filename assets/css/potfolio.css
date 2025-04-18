@@ -29,7 +29,7 @@
 
 .portfolio li .h3.github::before {
     content: '';
-    background-image: url('/assets/img/icons/gitHub.svg');
+    background-image: url('../img/icons/gitHub.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
